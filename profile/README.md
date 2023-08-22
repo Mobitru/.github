@@ -1,4 +1,4 @@
-[![Mobitru full logo](/profile/Mobitru-full-mark-transparent.svg)](https://mobitru.com/)
+[![Mobitru full logo](/profile/assets/Mobitru-full-mark-transparent.svg)](https://mobitru.com/)
 
 EPAM proprietary cloud-based device lab and digital experience platform for mobile apps development and testing on iOS and Android from anywhere.
 * Offers a **fully manageable and customizable device infrastructure**, both as SaaS and on-premises solution.
