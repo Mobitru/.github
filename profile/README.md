@@ -11,7 +11,7 @@ EPAM proprietary cloud-based device lab and digital experience platform for mobi
 :key: Have a private customized solution, even installed in your own office space, to meet enterprise requirements.
 
 **Professional services**  
-:key: Leverage our consulting and implementation services to kick-start test automation and build continuous testing blueprint.
+:key: Leverage our consulting and implementation services to kick-start mobile test automation and build continuous testing blueprint.
 
 # Mobitru for Engineers  
 **1. Supported application types**  
